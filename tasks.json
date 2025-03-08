@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "build",
+      "label": "npm: build",
+      "detail": "Build the project before debugging"
+    }
+  ]
+}
